@@ -1,0 +1,1 @@
+Example of group by with LINQ and Lambda.
