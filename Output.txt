@@ -1,0 +1,12 @@
+Linq result:
+Product id: 1 Qty sum: 60
+Product id: 2 Qty sum: 90
+Product id: 3 Qty sum: 15
+Product id: 4 Qty sum: 69
+
+
+Lambda result:
+Product id: 1 Qty sum: 60
+Product id: 2 Qty sum: 90
+Product id: 3 Qty sum: 15
+Product id: 4 Qty sum: 69
