@@ -1,3 +1,5 @@
+# LINQ and Lambda
+
 Example of group by with LINQ and Lambda.
 
 For same work both the syntax are given, LINQ and Lambda.
