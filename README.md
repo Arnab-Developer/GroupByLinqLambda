@@ -1,6 +1,6 @@
-# LINQ and Lambda
+# Group By in LINQ and Lambda
 
-Example of group by with LINQ and Lambda.
+Example of group by with LINQ and Lambda in C#.
 
 For same work both the syntax are given, LINQ and Lambda.
 
