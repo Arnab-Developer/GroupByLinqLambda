@@ -2,7 +2,7 @@
 
 Example of group by with LINQ and Lambda in C#.
 
-For same work both the syntax are given, LINQ and Lambda.
+For same work both the syntaxes are given, LINQ and Lambda.
 
 ```csharp
 var resultsLinq = from product in products
